@@ -8,7 +8,7 @@ bot.on('ready', function() {
 	console.log("Bot Connected On The Server !");
 });
 
-bot.login(process.env.TOKEN);
+bot.login("NDEzNDEwMzA0OTQ1MjkxMjg1.DWrw-Q.7oPrrUMu0fQdf6zAmMZCYsVHzgI");
 
 bot.on('message', message => {
 
